@@ -1,0 +1,10 @@
+/* Ensure the map's canvas is transparent */
+.leaflet-container {
+    background-color: transparent;
+   }
+   
+   /* Set a solid background color for the map's tiles */
+   .leaflet-tile {
+    background-color: #000; /* Adjust the color as needed */
+   }
+   
